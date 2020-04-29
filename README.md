@@ -1,6 +1,15 @@
 # Project Smoothies Register
 > A Vue.js project
 
+- Frontpage
+![frontpage](images/frontpage.png)
+
+- Creating a smoothie
+![creating](images/creating.png)
+
+- Editting a smoothie
+![editting](images/editting.png)
+
 ## Access the app
 To access the hosted app [click here](https://vuejs-project-ninja-smoothies.firebaseapp.com)
 
@@ -17,3 +26,6 @@ npm run dev
 npm run build
 
 ```
+> Project design by The Net Ninja
+> Code refactoring and management by Gabriel Cavalcante
+
