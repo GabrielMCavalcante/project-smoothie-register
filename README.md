@@ -26,6 +26,6 @@ npm run dev
 npm run build
 
 ```
-> Project design by The Net Ninja
+> Project design by The Net Ninja <br>
 > Code refactoring and management by Gabriel Cavalcante
 
